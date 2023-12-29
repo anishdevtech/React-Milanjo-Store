@@ -14,8 +14,7 @@ const Pricing = () => {
                 Our Pricing Plan
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                Our Pricing are the best in the market with best quality and quantity.
               </p>
             </div>
           </div>
@@ -24,47 +23,46 @@ const Pricing = () => {
         <div className="-mx-4 flex flex-wrap justify-center">
           <div className="-mx-4 flex flex-wrap">
             <PricingCard
-              type="Personal"
-              price="$59"
-              subscription="year"
+              type="Basic"
+              price="₹5500"
+              subscription="website"
               description="Perfect for using in a personal website or a client project."
               buttonText="Choose Personal"
             >
-              <List>1 User</List>
-              <List>All UI components</List>
-              <List>Lifetime access</List>
-              <List>Free updates</List>
-              <List>Use on 1 (one) project</List>
-              <List>3 Months support</List>
+              <List>3 months bug free code</List>
+              <List>All</List>
+              <List>1 month free hosting</List>
+              <List>Free 3 updates</List>
+              <List>5 webpages</List>
+              <List>Fully Responsive</List>
             </PricingCard>
             <PricingCard
               type="Business"
-              price="$199"
-              subscription="year"
+              price="₹11000"
+              subscription="website"
               description="Perfect for using in a personal website or a client project."
               buttonText="Choose Business"
-              active
-            >
-              <List>5 User</List>
-              <List>All UI components</List>
-              <List>Lifetime access</List>
-              <List>Free updates</List>
-              <List>Use on31 (Three) project</List>
-              <List>4 Months support</List>
+              >
+              <List>Dashboard Available</List>
+              <List>Free 5 updates</List>
+              <List></List>
+              <List>Email,Call,Gmap,Intergration </List>
+              <List>Fully Upgradable</List>
+              <List>20 webpages</List>
             </PricingCard>
             <PricingCard
               type="Professional"
-              price="$256"
-              subscription="year"
-              description="Perfect for using in a personal website or a client project."
+              price="₹25000"
+              subscription="website"
+              description="Fr Heavy Duty websites"
               buttonText="Choose Professional"
             >
               <List>Unlimited User</List>
-              <List>All UI components</List>
-              <List>Lifetime access</List>
-              <List>Free updates</List>
-              <List>Unlimited project</List>
-              <List>12 Months support</List>
+              <List>Everything available in basic, Business plans </List>
+              <List>20 Majaor upadtes </List>
+              <List>School,Collage,Shop,Buisness Dashboard available</List>
+              <List>2 bonus  project</List>
+              <List>36 Months support</List>
             </PricingCard>
           </div>
         </div>

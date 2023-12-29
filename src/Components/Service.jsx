@@ -14,8 +14,7 @@ const Service = () => {
                 What We Offer
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                We offer you amazing websites packages  at very reasonable prizes.
               </p>
             </div>
           </div>

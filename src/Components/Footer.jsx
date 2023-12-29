@@ -10,19 +10,14 @@ const Footer = () => {
               <div className="mb-10 w-full">
                 <a href="/#" className="mb-6 inline-block max-w-[160px]">
                   <img
-                    src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo.svg"
+                    src="https://media.discordapp.net/attachments/1099592881628512308/1190271705348845618/logo.png?ex=65a131e8&amp;is=658ebce8&amp;hm=390e10749b19f94184059e55fb600b660ccb21f1b7ed8c20beb09e2d79f520d8&amp"
                     alt="logo"
                     className="max-w-full dark:hidden"
                   />
-                  <img
-                    src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo-white.svg"
-                    alt="logo"
-                    className="max-w-full hidden dark:block"
-                  />
+                  
                 </a>
                 <p className="mb-7 text-base text-body-color dark:text-dark-6">
-                  Sed ut perspiciatis undmnis is iste natus error sit amet
-                  voluptatem totam rem aperiam.
+                Order One for you know 😉
                 </p>
                 <p className="flex items-center text-sm font-medium text-dark dark:text-white">
                   <span className="mr-3 text-primary">

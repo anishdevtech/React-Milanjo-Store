@@ -10,14 +10,9 @@ const Navbar = () => {
           <div className="w-60 max-w-full px-4">
             <a href="/#" className="block w-full py-5">
               <img
-                src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo-primary.svg"
+                src="https://media.discordapp.net/attachments/1099592881628512308/1190271705348845618/logo.png?ex=65a131e8&is=658ebce8&hm=390e10749b19f94184059e55fb600b660ccb21f1b7ed8c20beb09e2d79f520d8&"
                 alt="logo"
-                className="dark:hidden"
-              />
-              <img
-                src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo-white.svg"
-                alt="logo"
-                className="hidden dark:block"
+                className="hidden dark:block h-9 w-9 lg:h-[90px] lg:w-[80px]"
               />
             </a>
           </div>

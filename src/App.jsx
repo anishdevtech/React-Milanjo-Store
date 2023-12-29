@@ -33,7 +33,7 @@ const YourComponent = () => {
       
         <Loading  />
           <Hero />
-          <Cta />
+          
           <Service />
           <Testimonials />
           <Pricing />
