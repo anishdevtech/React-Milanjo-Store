@@ -39,7 +39,7 @@ Follow these steps to set up the React-Milanjo-Store project:
    ```
 
 5. **Open in Browser:**
-   Visit [http://localhost:3000](http://localhost:3000) to view the landing page.
+   Visit [http://localhost:5173](http://localhost:5173) to view the landing page.
 
 ## Project Structure
 
